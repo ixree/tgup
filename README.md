@@ -1,6 +1,6 @@
 <div align="center">
 
-# tgup
+# TGUP
 
 **Ship files from Termux to Telegram in seconds.**
 
